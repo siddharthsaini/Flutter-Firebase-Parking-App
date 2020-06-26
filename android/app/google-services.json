@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "481765835407",
+    "firebase_url": "https://bvd-parking.firebaseio.com",
+    "project_id": "bvd-parking",
+    "storage_bucket": "bvd-parking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481765835407:android:e62145905cd9d7bb72a6fa",
+        "android_client_info": {
+          "package_name": "tech.siddharthsaini.bva_parking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481765835407-d412fikdki0p6d6ogvqrsnp79l4cm0vn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHAMjCUD0P1f99j3mH2jncCdhfTHbHgMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481765835407-d412fikdki0p6d6ogvqrsnp79l4cm0vn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
