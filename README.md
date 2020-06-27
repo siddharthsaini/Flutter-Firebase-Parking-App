@@ -1,6 +1,8 @@
 # BVA Parking
 
-A new Flutter project.
+Smart Parking App for Residential Society to know the details of a Parked Vehicle.
+
+Screenshots to be uploaded soon.
 
 ## Getting Started
 
