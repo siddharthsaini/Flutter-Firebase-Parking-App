@@ -1,4 +1,4 @@
-# BVA Parking
+# Flutter-Firebase-Parking-App
 
 Smart Parking App for Residential Society to know the details of a Parked Vehicle.
 
